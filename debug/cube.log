@@ -1,0 +1,13 @@
+﻿  Generate moc_predefs.h
+  RCC shaders.qrc
+  RCC textures.qrc
+  MOC mainwidget.h
+  geometryengine.cpp
+  main.cpp
+  mainwidget.cpp
+  moc_mainwidget.cpp
+  qrc_shaders.cpp
+  qrc_textures.cpp
+  Generating Code...
+  cube.vcxproj -> C:\TheCranker\QTExample\cube\debug\cube.exe
+  cube.vcxproj -> debug\cube.pdb (Full PDB)
